@@ -4,8 +4,10 @@ git clone https://github.com/MrxTeam01/MRX.git
 
 cd MRX
 
-dir
+ls
 
 chmod +x *
+
+ls
 
 python MRX.py
