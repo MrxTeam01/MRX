@@ -6,4 +6,4 @@ cd MRX
 
 chmod +x *
 
-python MRXX.py
+python MRX.py
