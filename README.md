@@ -1,4 +1,4 @@
-cd $HOME
+cd 
 
 rm -rf MRX
 
